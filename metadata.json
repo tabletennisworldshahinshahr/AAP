@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Dr. Damyar - Veterinary AI333333",
+  "description": "An intelligent veterinary assistant for livestock diagnosis using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
